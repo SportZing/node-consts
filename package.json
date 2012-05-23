@@ -1,0 +1,16 @@
+{
+  "author": "James Brumond <james@sportzing.com> (http://jbrumond.me)",
+  "name": "consts",
+  "description": "A simple way of defining both module and application-wide constants",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SportZing/node-consts"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
