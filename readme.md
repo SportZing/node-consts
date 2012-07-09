@@ -21,6 +21,12 @@ console.log(consts.BAR);  // null
 
 consts.define(exports, 'BAZ', 10);
 console.log(exports.BAZ);  // 10
+
+// Also supports chaining
+consts
+	.define('A', 1)
+	.define('B', 2)
+	.define('C', 3);
 ```
 
 ## MIT License

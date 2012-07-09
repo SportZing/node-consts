@@ -39,6 +39,8 @@ exports.define = function() {
 			define(arguments[0], arguments[1], arguments[2]);
 		break;
 	}
+	// Allow chaining
+	return exports;
 };
 
 function define(scope, name, value) {
