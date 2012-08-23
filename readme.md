@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/SportZing/node-consts.png)](http://travis-ci.org/SportZing/node-consts)
 # consts
 
 Node.js utility for simply defining both module and application-wide constants
